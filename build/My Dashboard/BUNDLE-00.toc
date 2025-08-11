@@ -1,0 +1,3 @@
+([('My Dashboard',
+   '/Users/danielmorrisey/Documents/simple-dash/dist/My Dashboard',
+   'EXECUTABLE')],)
