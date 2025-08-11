@@ -2,10 +2,10 @@
 
 
 a = Analysis(
-    ['app.py'],
+    ['wrapper.py'],
     pathex=[],
     binaries=[],
-    datas=[('templates', 'templates')],
+    datas=[('templates', 'templates'), ('run_app.sh', '.'), ('requirements.txt', '.'), ('app.py', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
