@@ -1,0 +1,1 @@
+/Users/danielmorrisey/Documents/simple-dash/.venv/bin/pyinstaller --windowed --name SimpleDashLauncher launch_simple_dash.py
